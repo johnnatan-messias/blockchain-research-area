@@ -63,7 +63,7 @@ This list is intended to help new students and enthusiasts learn about the field
 | Frontrunner Jones and the Raiders of the DarkForest: An Empirical Study of Frontrunning on the Ethereum Blockchain | USENIX SECURITY '21 | <https://www.usenix.org/system/files/sec21-torres.pdf> |
 | He-HTLC: Revisiting Incentives in HTLC | --- | <https://eprint.iacr.org/2022/546.pdf> |
 
-## 6. DeFI Apps, Oracles, DEXes, NFTS, Lending, Stablecoins
+## 6. Decentralized Finance (DeFi) Apps, Oracles, DEXes, NFTs, Lending, Stablecoins
 
 ### 6.1 Oracles
 
@@ -72,7 +72,7 @@ This list is intended to help new students and enthusiasts learn about the field
 | Chainlink 2.0: Next Steps in the Evolution of Decentralized Oracle Networks | White paper | <https://research.chain.link/whitepaper-v2.pdf> |
 | Chainlink Off-chain Reporting Protocol | White paper |<https://research.chain.link/ocr.pdf> |
 
-### 6.2 DEX
+### 6.2 Decentralized Exchange (DEX)
 
 | Paper title | Venue | Link |
 |:---:|:---:|:---:|
