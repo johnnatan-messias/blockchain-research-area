@@ -1,4 +1,4 @@
-# Blockchain papers
+# Blockchain Research Area
 
 This list is intended to help new students and enthusiasts learn about the field of blockchain research. If you have any papers to add, please submit a pull request on GitHub.
 
