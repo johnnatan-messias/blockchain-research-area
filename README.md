@@ -1,6 +1,6 @@
-# Area Exam Reading List
+# Blockchain papers
 
-Main Page: [NS Blockchain Projects](https://wiki.mpi-sws.org/projects/Blockchain)
+This list is intended to help new students and enthusiasts learn about the field of blockchain research. If you have any papers to add, please submit a pull request on GitHub.
 
 ## 1. Courses
 
@@ -48,7 +48,7 @@ Main Page: [NS Blockchain Projects](https://wiki.mpi-sws.org/projects/Blockchain
 | Majority is not Enough |International conference on financial cryptography and data security 2014 |<https://arxiv.org/pdf/1311.0243.pdf> |
 | On the Security and Performance of Proof of Work Blockchains | CCS, Proceedings of the 2016 ACM SIGSAC conference on computer and communications security | <https://dl.acm.org/doi/pdf/10.1145/2976749.2978341> |
 | On the Instability of Bitcoin Without the Block Reward | CCS '16: | <https://www.cs.princeton.edu/~arvindn/publications/mining_CCS.pdf> |
-| Misbehavior in Bitcoin: A Study of Double-Spending and Accountability | ACM Transactions on Information and System Security '15 | <https://dl.acm.org/doi/pdf/10.1145/2732196| >
+| Misbehavior in Bitcoin: A Study of Double-Spending and Accountability | ACM Transactions on Information and System Security '15 | <<https://dl.acm.org/doi/pdf/10.1145/2732196|> >
 | Tampering with the Delivery of Blocks and Transactions in Bitcoin | CCS '15: Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security | <https://dl.acm.org/doi/abs/10.1145/2810103.2813655> |
 
 ## 5. Transaction prioritization
@@ -118,3 +118,4 @@ Main Page: [NS Blockchain Projects](https://wiki.mpi-sws.org/projects/Blockchain
 | MAD-HTLC: Because HTLC is Crazy-Cheap to Attack | S&P '21 | <https://arxiv.org/abs/2006.12031> |
 | Do you need a Blockchain? | Crypto Valley '18 | <https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8525392> |
 | Is Bitcoin a Decentralized Currency | IEEE Security & Privacy ( Volume: 12, Issue: 3, May-June 2014) | <https://ieeexplore.ieee.org/abstract/document/6824541> |
+
